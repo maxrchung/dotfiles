@@ -1,5 +1,5 @@
 # common stuff
-Applications, configs, and notes for myself. Helpful for when I'm setting up a new personal environment.
+Yeah, this is gonna be helpful for when I'm setting up a new personal environment.
 
 - [Chrome](https://www.google.com/chrome/) download/login
 - [Discord](https://discord.com/download/) download
