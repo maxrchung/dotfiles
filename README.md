@@ -8,6 +8,7 @@ Yeah, this is gonna be helpful for when I'm setting up a new personal environmen
 - [Git](https://git-scm.com/) download/login
 - [GitHub](https://github.com/) login
 - [Gmail](https://mail.google.com/mail/u/0/#inbox) login
+- Mouse acceleration/precision
 - [Spotify](https://www.spotify.com/us/download/other/) download/login
 - Theme
 
