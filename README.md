@@ -16,4 +16,4 @@ Yeah, this is gonna be helpful for when I'm setting up a new personal environmen
 - [Visual Studio Code](https://code.visualstudio.com/) download
   - [Sync](https://marketplace.visualstudio.com/itemdetails?itemName=Shan.code-settings-sync) settings
 - [Vivaldi](https://vivaldi.com/) download/login
-  - Vivaldi sync kind of really. I think you're best off manually copying all settings from an existing Vivaldi setup over.
+  - Vivaldi sync sucks. I think you're best off manually copying all settings from an existing Vivaldi setup over.
