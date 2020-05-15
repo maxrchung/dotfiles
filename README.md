@@ -15,3 +15,4 @@ Yeah, this is gonna be helpful for when I'm setting up a new personal environmen
 ![daBOiindaMrrr](/daBOiindaMrrr.jpg)
 - [Visual Studio Code](https://code.visualstudio.com/) download
 - [Vivaldi](https://vivaldi.com/) download/login
+  - Vivaldi sync kind of sucks donkey balls. I think you're best off manually copying all settings from an existing Vivaldi setup over.
