@@ -1,0 +1,5 @@
+[user]
+	email = maxrchung@gmail.com
+	name = Max
+[core]
+	editor = emacs -nw
