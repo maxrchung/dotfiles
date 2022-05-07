@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-07T13:33:14.400-00:00",
+	"CreationDate" : "2022-05-07T16:33:25.905-00:00",
 	"Sources" : 
 	[
 		{
@@ -50,6 +50,9 @@
 				},
 				{
 					"PackageIdentifier" : "Yarn.Yarn"
+				},
+				{
+					"PackageIdentifier" : "Amazon.AWSCLI"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
