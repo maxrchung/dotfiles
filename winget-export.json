@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-06T23:19:19.944-00:00",
+	"CreationDate" : "2022-05-07T11:10:45.742-00:00",
 	"Sources" : 
 	[
 		{
@@ -50,6 +50,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
 				}
 			],
 			"SourceDetails" : 
