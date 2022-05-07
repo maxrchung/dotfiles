@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-07T11:10:45.742-00:00",
+	"CreationDate" : "2022-05-07T13:33:14.400-00:00",
 	"Sources" : 
 	[
 		{
@@ -38,6 +38,12 @@
 				},
 				{
 					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnet"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS"
