@@ -1,0 +1,1 @@
+winget export winget-export.json --include-versions

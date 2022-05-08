@@ -1,67 +1,94 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-07T17:26:06.770-00:00",
+	"CreationDate" : "2022-05-08T02:41:52.660-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "CPUID.HWMonitor"
+					"PackageIdentifier" : "CPUID.HWMonitor",
+					"Version" : "1.46"
 				},
 				{
-					"PackageIdentifier" : "Canonical.Ubuntu"
+					"PackageIdentifier" : "Canonical.Ubuntu",
+					"Version" : "2004.2020.424.0"
 				},
 				{
-					"PackageIdentifier" : "Discord.Discord"
+					"PackageIdentifier" : "Discord.Discord",
+					"Version" : "1.0.9004"
 				},
 				{
-					"PackageIdentifier" : "Docker.DockerDesktop"
+					"PackageIdentifier" : "Docker.DockerDesktop",
+					"Version" : "4.7.1"
 				},
 				{
-					"PackageIdentifier" : "Git.Git"
+					"PackageIdentifier" : "Git.Git",
+					"Version" : "2.36.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
+					"PackageIdentifier" : "Microsoft.Edge",
+					"Version" : "101.0.1210.39"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
+					"Version" : "101.0.1210.39"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal",
+					"Version" : "1.12.10983.0"
 				},
 				{
-					"PackageIdentifier" : "Nodist.Nodist"
+					"PackageIdentifier" : "Mozilla.Firefox",
+					"Version" : "100.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
+					"PackageIdentifier" : "Microsoft.OneDrive",
+					"Version" : "22.077.0410.0007"
 				},
 				{
-					"PackageIdentifier" : "Valve.Steam"
+					"PackageIdentifier" : "Valve.Steam",
+					"Version" : "2.10.91.91"
 				},
 				{
-					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi"
+					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
+					"Version" : "5.2.2623.41"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnet"
+					"PackageIdentifier" : "Microsoft.dotnet",
+					"Version" : "6.2.222.17207"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3"
+					"PackageIdentifier" : "Google.Chrome",
+					"Version" : "101.0.4951.54"
 				},
 				{
-					"PackageIdentifier" : "Yarn.Yarn"
+					"PackageIdentifier" : "OpenJS.NodeJS",
+					"Version" : "17.3.0"
 				},
 				{
-					"PackageIdentifier" : "Amazon.AWSCLI"
+					"PackageIdentifier" : "Python.Python.3",
+					"Version" : "3.10.4150.0"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Yarn.Yarn",
+					"Version" : "1.22.18"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64"
+					"PackageIdentifier" : "Amazon.AWSCLI",
+					"Version" : "2.6.3.0"
 				},
 				{
-					"PackageIdentifier" : "VideoLAN.VLC"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode",
+					"Version" : "1.67.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
+					"Version" : "14.28.29913.0"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC",
+					"Version" : "3.0.17.0"
 				}
 			],
 			"SourceDetails" : 
