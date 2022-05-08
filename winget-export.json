@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-07T16:33:25.905-00:00",
+	"CreationDate" : "2022-05-07T17:26:06.770-00:00",
 	"Sources" : 
 	[
 		{
@@ -31,6 +31,9 @@
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
+					"PackageIdentifier" : "Nodist.Nodist"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
@@ -44,9 +47,6 @@
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3"
-				},
-				{
-					"PackageIdentifier" : "OpenJS.NodeJS"
 				},
 				{
 					"PackageIdentifier" : "Yarn.Yarn"
