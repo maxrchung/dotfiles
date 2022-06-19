@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-08T02:41:52.660-00:00",
+	"CreationDate" : "2022-06-19T02:39:55.912-00:00",
 	"Sources" : 
 	[
 		{
@@ -12,7 +12,7 @@
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu",
-					"Version" : "2004.2020.424.0"
+					"Version" : "2004.2022.1.0"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord",
@@ -23,28 +23,36 @@
 					"Version" : "4.7.1"
 				},
 				{
+					"PackageIdentifier" : "EvanCzaplicki.Elm",
+					"Version" : "Unknown"
+				},
+				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.36.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "101.0.1210.39"
+					"Version" : "102.0.1245.44"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "101.0.1210.39"
+					"Version" : "102.0.1245.44"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.12.10983.0"
+					"Version" : "1.13.11432.0"
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox",
-					"Version" : "100.0"
+					"Version" : "101.0.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "22.077.0410.0007"
+					"Version" : "22.111.0522.0002"
+				},
+				{
+					"PackageIdentifier" : "PostgreSQL.PostgreSQL",
+					"Version" : "14"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam",
@@ -52,15 +60,15 @@
 				},
 				{
 					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
-					"Version" : "5.2.2623.41"
+					"Version" : "5.3.2679.58"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnet",
-					"Version" : "6.2.222.17207"
+					"PackageIdentifier" : "PostgreSQL.pgAdmin",
+					"Version" : "6.10"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome",
-					"Version" : "101.0.4951.54"
+					"Version" : "102.0.5005.115"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS",
@@ -75,12 +83,16 @@
 					"Version" : "1.22.18"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.VC++2005Redist-x86",
+					"Version" : "8.0.61001"
+				},
+				{
 					"PackageIdentifier" : "Amazon.AWSCLI",
 					"Version" : "2.6.3.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.67.0"
+					"Version" : "1.68.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
@@ -89,6 +101,18 @@
 				{
 					"PackageIdentifier" : "VideoLAN.VLC",
 					"Version" : "3.0.17.0"
+				},
+				{
+					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher",
+					"Version" : "2.3.0"
+				},
+				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher",
+					"Version" : "1.3.23.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64",
+					"Version" : "8.0.61000"
 				}
 			],
 			"SourceDetails" : 
@@ -100,5 +124,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.10271"
+	"WinGetVersion" : "1.2.10941"
 }
