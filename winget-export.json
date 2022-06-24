@@ -1,11 +1,15 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-06-20T00:28:23.591-00:00",
+	"CreationDate" : "2022-06-23T22:08:47.002-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Community",
+					"Version" : "16.11.16"
+				},
 				{
 					"PackageIdentifier" : "CPUID.HWMonitor",
 					"Version" : "1.46"
@@ -59,16 +63,28 @@
 					"Version" : "2.10.91.91"
 				},
 				{
+					"PackageIdentifier" : "UnityTechnologies.Unity.2020",
+					"Version" : "2020.3.26f1"
+				},
+				{
 					"PackageIdentifier" : "UnityTechnologies.UnityHub",
 					"Version" : "3.1.2"
 				},
 				{
 					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
-					"Version" : "5.3.2679.58"
+					"Version" : "5.3.2679.61"
+				},
+				{
+					"PackageIdentifier" : "RARLab.WinRAR",
+					"Version" : "6.11.0"
 				},
 				{
 					"PackageIdentifier" : "PostgreSQL.pgAdmin",
 					"Version" : "6.10"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64",
+					"Version" : "12.0.30501.0"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome",
@@ -77,6 +93,10 @@
 				{
 					"PackageIdentifier" : "Python.Python.3",
 					"Version" : "3.10.4150.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
+					"Version" : "14.29.30139.0"
 				},
 				{
 					"PackageIdentifier" : "Yarn.Yarn",
@@ -95,8 +115,8 @@
 					"Version" : "1.68.1"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
-					"Version" : "14.28.29913.0"
+					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86",
+					"Version" : "14.29.30139.0"
 				},
 				{
 					"PackageIdentifier" : "jasongin.nvs",
@@ -128,5 +148,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.10941"
+	"WinGetVersion" : "1.2.11601"
 }
