@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-06-23T22:08:47.002-00:00",
+	"CreationDate" : "2022-06-25T04:13:35.140-00:00",
 	"Sources" : 
 	[
 		{
@@ -36,7 +36,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "102.0.1245.44"
+					"Version" : "103.0.1264.37"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
@@ -52,7 +52,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "22.111.0522.0002"
+					"Version" : "22.121.0605.0002"
 				},
 				{
 					"PackageIdentifier" : "PostgreSQL.PostgreSQL",
@@ -79,6 +79,10 @@
 					"Version" : "6.11.0"
 				},
 				{
+					"PackageIdentifier" : "Peppy.Osu!",
+					"Version" : "2022.621.0"
+				},
+				{
 					"PackageIdentifier" : "PostgreSQL.pgAdmin",
 					"Version" : "6.10"
 				},
@@ -97,6 +101,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
 					"Version" : "14.29.30139.0"
+				},
+				{
+					"PackageIdentifier" : "BlenderFoundation.Blender",
+					"Version" : "3.2.0"
 				},
 				{
 					"PackageIdentifier" : "Yarn.Yarn",
@@ -137,6 +145,10 @@
 				{
 					"PackageIdentifier" : "Microsoft.VC++2005Redist-x64",
 					"Version" : "8.0.61000"
+				},
+				{
+					"PackageIdentifier" : "Peppy.Osu!",
+					"Version" : "latest"
 				}
 			],
 			"SourceDetails" : 
