@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-06-25T04:13:35.140-00:00",
+	"CreationDate" : "2022-06-25T21:03:52.919-00:00",
 	"Sources" : 
 	[
 		{
@@ -59,6 +59,10 @@
 					"Version" : "14"
 				},
 				{
+					"PackageIdentifier" : "Atlassian.Sourcetree",
+					"Version" : "3.4.9"
+				},
+				{
 					"PackageIdentifier" : "Valve.Steam",
 					"Version" : "2.10.91.91"
 				},
@@ -73,6 +77,10 @@
 				{
 					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
 					"Version" : "5.3.2679.61"
+				},
+				{
+					"PackageIdentifier" : "Wacom.WacomTabletDriver",
+					"Version" : "6.3.46-1"
 				},
 				{
 					"PackageIdentifier" : "RARLab.WinRAR",
