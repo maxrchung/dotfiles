@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-06-25T21:03:52.919-00:00",
+	"CreationDate" : "2022-08-04T19:38:36.334-00:00",
 	"Sources" : 
 	[
 		{
@@ -31,28 +31,32 @@
 					"Version" : "Unknown"
 				},
 				{
+					"PackageIdentifier" : "GIMP.GIMP",
+					"Version" : "2.10.32"
+				},
+				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.36.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "103.0.1264.37"
+					"Version" : "103.0.1264.77"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "102.0.1245.44"
+					"Version" : "103.0.1264.77"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.13.11432.0"
+					"Version" : "1.14.1963.0"
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox",
-					"Version" : "101.0.1"
+					"Version" : "103.0.1"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "22.121.0605.0002"
+					"Version" : "22.141.0703.0002"
 				},
 				{
 					"PackageIdentifier" : "PostgreSQL.PostgreSQL",
@@ -76,7 +80,7 @@
 				},
 				{
 					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
-					"Version" : "5.3.2679.61"
+					"Version" : "5.3.2679.70"
 				},
 				{
 					"PackageIdentifier" : "Wacom.WacomTabletDriver",
@@ -100,11 +104,11 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome",
-					"Version" : "102.0.5005.115"
+					"Version" : "103.0.5060.134"
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3",
-					"Version" : "3.10.4150.0"
+					"Version" : "3.10.4"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x64",
@@ -113,6 +117,10 @@
 				{
 					"PackageIdentifier" : "BlenderFoundation.Blender",
 					"Version" : "3.2.0"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK",
+					"Version" : "10.1.16299.15"
 				},
 				{
 					"PackageIdentifier" : "Yarn.Yarn",
@@ -128,7 +136,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.68.1"
+					"Version" : "1.69.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2019Redist-x86",
@@ -140,7 +148,7 @@
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC",
-					"Version" : "3.0.17.0"
+					"Version" : "3.0.17.4"
 				},
 				{
 					"PackageIdentifier" : "ParadoxInteractive.ParadoxLauncher",
@@ -161,12 +169,12 @@
 			],
 			"SourceDetails" : 
 			{
-				"Argument" : "https://winget.azureedge.net/cache",
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
 				"Name" : "winget",
 				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.11601"
+	"WinGetVersion" : "1.3.2091"
 }
