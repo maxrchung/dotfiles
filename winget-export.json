@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-12-30T15:59:55.515-00:00",
+	"CreationDate" : "2023-01-14T01:45:19.094-00:00",
 	"Sources" : 
 	[
 		{
@@ -40,11 +40,11 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "108.0.1462.54"
+					"Version" : "108.0.1462.76"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "108.0.1462.54"
+					"Version" : "108.0.1462.76"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
@@ -52,19 +52,23 @@
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox",
-					"Version" : "108.0.1"
+					"Version" : "108.0.2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "22.238.1114.0002"
+					"Version" : "22.253.1204.0001"
 				},
 				{
 					"PackageIdentifier" : "Opera.OperaGX",
-					"Version" : "93.0.4585.78"
+					"Version" : "93.0.4585.84"
 				},
 				{
 					"PackageIdentifier" : "PostgreSQL.PostgreSQL",
 					"Version" : "14"
+				},
+				{
+					"PackageIdentifier" : "RubyInstallerTeam.Ruby.2.7",
+					"Version" : "2.7.6-1"
 				},
 				{
 					"PackageIdentifier" : "Atlassian.Sourcetree",
@@ -79,12 +83,20 @@
 					"Version" : "5.0.12"
 				},
 				{
+					"PackageIdentifier" : "JAMSoftware.TreeSize.Free",
+					"Version" : "4.6.3"
+				},
+				{
 					"PackageIdentifier" : "Unity.Unity.2020",
 					"Version" : "2020.3.26f1"
 				},
 				{
+					"PackageIdentifier" : "Unity.Unity.2020",
+					"Version" : "2021.3.15f1"
+				},
+				{
 					"PackageIdentifier" : "Unity.UnityHub",
-					"Version" : "3.1.2"
+					"Version" : "3.4.1"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC",
@@ -116,7 +128,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome",
-					"Version" : "108.0.5359.125"
+					"Version" : "109.0.5414.74"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
@@ -164,7 +176,7 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.74.2"
+					"Version" : "1.74.3"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysXLegacy",
