@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-25T03:25:36.071-00:00",
+	"CreationDate" : "2023-10-29T17:58:57.580-00:00",
 	"Sources" : 
 	[
 		{
@@ -23,8 +23,16 @@
 					"Version" : "Unknown"
 				},
 				{
+					"PackageIdentifier" : "YoYoGames.GameMaker.Studio.2",
+					"Version" : "Unknown"
+				},
+				{
 					"PackageIdentifier" : "Git.Git",
 					"Version" : "2.36.0"
+				},
+				{
+					"PackageIdentifier" : "Gyan.FFmpeg",
+					"Version" : "6.0"
 				},
 				{
 					"PackageIdentifier" : "KDE.Krita",
@@ -32,27 +40,27 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge",
-					"Version" : "111.0.1661.51"
+					"Version" : "118.0.2088.76"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime",
-					"Version" : "111.0.1661.51"
+					"Version" : "118.0.2088.69"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal",
-					"Version" : "1.16.10262.0"
+					"Version" : "1.18.2822.0"
 				},
 				{
 					"PackageIdentifier" : "Mozilla.Firefox",
-					"Version" : "111.0"
+					"Version" : "119.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive",
-					"Version" : "23.048.0305.0002"
+					"Version" : "23.209.1008.0002"
 				},
 				{
 					"PackageIdentifier" : "Opera.OperaGX",
-					"Version" : "96.0.4693.117"
+					"Version" : "102.0.4880.114"
 				},
 				{
 					"PackageIdentifier" : "PostgreSQL.PostgreSQL",
@@ -95,16 +103,16 @@
 					"Version" : "3.0.18"
 				},
 				{
-					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi",
-					"Version" : "5.7.2921.65"
-				},
-				{
 					"PackageIdentifier" : "Wacom.WacomTabletDriver",
 					"Version" : "6.3.46-1"
 				},
 				{
 					"PackageIdentifier" : "RARLab.WinRAR",
 					"Version" : "6.11.0"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom",
+					"Version" : "< 5.14.8.16213"
 				},
 				{
 					"PackageIdentifier" : "Peppy.Osu!",
@@ -116,7 +124,11 @@
 				},
 				{
 					"PackageIdentifier" : "qBittorrent.qBittorrent",
-					"Version" : "4.5.0"
+					"Version" : "4.5.3"
+				},
+				{
+					"PackageIdentifier" : "yt-dlp.yt-dlp",
+					"Version" : "2023.10.13"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64",
@@ -124,7 +136,7 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome",
-					"Version" : "111.0.5563.111"
+					"Version" : "118.0.5993.118"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64",
@@ -135,16 +147,16 @@
 					"Version" : "3.10.4"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
-					"Version" : "14.31.31103.0"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86",
 					"Version" : "11.0.61030.0"
 				},
 				{
+					"PackageIdentifier" : "Mojang.MinecraftLauncher",
+					"Version" : "2.0.0.0"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86",
-					"Version" : "14.31.31103.0"
+					"Version" : "14.36.32532.0"
 				},
 				{
 					"PackageIdentifier" : "BlenderFoundation.Blender",
@@ -152,19 +164,19 @@
 				},
 				{
 					"PackageIdentifier" : "Logitech.GHUB",
-					"Version" : "2023.2.376231"
+					"Version" : "2023.7.448769"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64",
 					"Version" : "9.0.30729.6161"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK",
-					"Version" : "< 10.0.22000.832"
-				},
-				{
 					"PackageIdentifier" : "Yarn.Yarn",
 					"Version" : "1.22.18"
+				},
+				{
+					"PackageIdentifier" : "Python.Launcher",
+					"Version" : "< 3.12.0"
 				},
 				{
 					"PackageIdentifier" : "Amazon.Corretto.19",
@@ -180,11 +192,15 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode",
-					"Version" : "1.75.0"
+					"Version" : "1.82.2"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.PhysXLegacy",
 					"Version" : "9.12.1031"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64",
+					"Version" : "14.36.32532.0"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86",
@@ -219,12 +235,16 @@
 					"Version" : "latest"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6",
+					"Version" : "6.0.11"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64",
 					"Version" : "11.0.61030.0"
 				},
 				{
 					"PackageIdentifier" : "ElectronicArts.EADesktop",
-					"Version" : "12.140.0.5397"
+					"Version" : "13.52.0.5565"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86",
@@ -240,5 +260,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.4.10173"
+	"WinGetVersion" : "1.6.2771"
 }
