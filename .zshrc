@@ -1,5 +1,4 @@
 # aliases
-# You'll want to clone this repo to ~/dotfiles
 alias mc-source='git -C ~/dotfiles pull && ~/dotfiles/rsync.sh && source ~/.zshrc'
 alias mc-killnode='killall -9 node'
 
