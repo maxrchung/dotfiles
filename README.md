@@ -1,4 +1,4 @@
-Clone this to `~/dotfiles` then let `rsync` override `.zshrc`.
+Clones this to `~/dotfiles` then let `rsync` override `.zshrc`.
 
 ```
 cd ~
