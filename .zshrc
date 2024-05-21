@@ -1,3 +1,8 @@
+# aliases
+# You'll want to clone this repo to ~/dotfiles
+alias mc-source='git -C ~/dotfiles pull && ~/dotfiles/rsync.sh && source ~/.zshrc'
+alias mc-killnode='killall -9 node'
+
 # vscode
 export PATH="$PATH:$HOME/.toolbox/bin:$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
@@ -7,9 +12,6 @@ export NODE_OPTIONS=--max-old-space-size=8192
 # pip
 export PATH="$PATH:$HOME/.local/bin"
 
-# aliases
-alias mc-source='git -C ~/dotfiles pull && ~/dotfiles/rsync.sh && source ~/.zshrc'
-alias mc-killnode='killall -9 node'
 
 # https://stackoverflow.com/questions/1593051/how-to-programmatically-determine-the-current-checked-out-git-branch
 git-branch() {
