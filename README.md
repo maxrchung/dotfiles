@@ -8,4 +8,4 @@ dotfiles/rsync.sh
 source ~/.zshrc
 ```
 
-After this initial setup, you can just run the `mc-source` alias to get new updates.
+After this initial setup, you can run `mc-source` to pull and apply new updates.
