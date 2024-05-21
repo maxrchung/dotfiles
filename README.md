@@ -1,4 +1,4 @@
-Some personal config files, mostly for Unix systems. Clone this repo to `~/dotfiles` then use `rsync.sh` to override `~/*` files.
+Some personal config files, mostly for Unix systems. Clone this to `~/dotfiles` then use `rsync.sh` to override `~/*` files.
 
 ```
 cd ~
