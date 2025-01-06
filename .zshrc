@@ -1,6 +1,7 @@
 # aliases
 alias mc-source='git -C ~/dotfiles pull && ~/dotfiles/rsync.sh && source ~/.zshrc'
 alias mc-killnode='killall -9 node'
+alias mc-trigger='git commit -m "chore: trigger build" --no-verify --allow-empty && git push'
 
 # vscode
 export PATH="$PATH:$HOME/.toolbox/bin:$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
